@@ -3,14 +3,11 @@
 Este arquivo HTML representa a **página inicial do projeto ShadowPlay**, um site colaborativo para prática de inglês com vídeos do YouTube e a técnica de shadowing.
 
 ---
-
 ## 🧠 Estrutura Geral do Código
 
-### <!DOCTYPE html> e <html>
+### `<!DOCTYPE html>` e `<html>`
 - Define que o documento é um HTML5.
 - A tag `<html lang="en">` indica que o conteúdo está em inglês (padrão web internacional).
-
----
 
 ## <head> – Cabeçalho invisível da página
 
