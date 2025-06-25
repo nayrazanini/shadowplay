@@ -1,4 +1,4 @@
-# Explicação do index.html - ShadowPlay
+# explicacao_index.html - ShadowPlay
 
 Este arquivo HTML representa a **página inicial do projeto ShadowPlay**, um site colaborativo para prática de inglês com vídeos do YouTube e a técnica de shadowing.
 
