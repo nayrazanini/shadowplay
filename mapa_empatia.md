@@ -1,6 +1,6 @@
 # 🧠 Mapa de Empatia – ShadowPlay
 
-> Ferramenta para compreensão do usuário final da plataforma colaborativa de prática de inglês com vídeos e IA.
+> Ferramenta para compreensão do usuário final da plataforma colaborativa de prática de inglês com vídeos, IA e interação ao vivo entre os usuários.
 
 ---
 
@@ -15,6 +15,7 @@ Estudante de inglês autodidata, de qualquer nível (iniciante a avançado), que
 - “Sinto que estudo muito e evoluo pouco.”
 - “Me frustra perder tempo procurando conteúdo adequado.”
 - “Tenho medo de estar pronunciando errado.”
+- “Me frusta não conseguir aprender no método convencional.”
 
 ---
 
@@ -24,6 +25,7 @@ Estudante de inglês autodidata, de qualquer nível (iniciante a avançado), que
 - Criadores de conteúdo que explicam pouco ou são superficiais
 - Aplicativos com foco em gramática ou vocabulário, não em fala
 - Falta de direcionamento claro
+- Vídeos curtos em redes sociais que não explicam de fato como funciona
 
 ---
 
@@ -61,6 +63,8 @@ Estudante de inglês autodidata, de qualquer nível (iniciante a avançado), que
 - Usar IA para receber sugestões e feedback na fala
 - Aprender técnicas de estudo e como aplicá-las corretamente
 - Evoluir no speaking com autonomia e constância
+- Uma plataforma que une todas as formas para estudo
+- Possibilita a troca de ideia online com outros usuários para praticar ao vivo (dueto).
 
 ---
 
